@@ -1,2 +1,4 @@
-export function managePresents(state, action){
+
+export function managePresents(state, action) {
+
 }
